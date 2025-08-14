@@ -152,6 +152,12 @@ main {
     margin: 0 auto;
     margin-bottom: 50px;
 }
+
+.gallery-title {
+  grid-column: 1 / -1;
+  margin: 16px 0 8px; 
+  font-size: 1.2rem;
+}
         
 .gallery-item {
     aspect-ratio: 1/1;
